@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/global-weather-viewer-31103-31042/weather_app_frontend"
+}
